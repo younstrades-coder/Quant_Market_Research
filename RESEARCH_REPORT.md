@@ -68,16 +68,17 @@ The results show massive convergence:
 <img width="495" height="254" alt="image" src="https://github.com/user-attachments/assets/b650a5dc-febe-4c3b-a0c3-3fc280d8325d" />
 
 
-## 5. Validation: The "Duration Trap" (November 2025)
-The robustness of this model was validated by the market events of late 2025.
+## 5. Validation: The "Volatility Cluster" (November 2025)
+The robustness of this model was validated by the violent price action of late 2025.
 
 **The Event:**
-In November, betting markets saw rate cut probabilities collapse from **95% to <40%**. Simultaneously, AI/Big Tech stocks suffered a **~30% drawdown**.
+In November, betting markets surged to price an **81% probability of rate cuts**. Despite this, AI/Big Tech stocks suffered a **~30% drawdown**, followed immediately by a sharp **5-day recovery**.
 
 **The Model Validation:**
-Crucially, our **Absorption Ratio spiked** during this crash.
-* If the sell-off were healthy profit-taking, correlations would have fallen.
-* Instead, correlations went to 1.0. This confirms our thesis of a **"Duration Trap."** With the "Fed Put" removed, capital crowded into "Bond Proxies" (Cash-Rich Tech). When rates stayed high, these long-duration assets de-levered systemically.
+Crucially, our **Rolling Absorption Ratio** spiked during both the crash *and* the recovery.
+* **The "Whiplash" Signal:** The market exhibited extreme bi-directional volatility.
+* **Why this matters:** In a healthy market, a recovery is usually driven by specific earnings (Idiosyncratic). However, the rising Absorption Ratio during the bounce indicates that the recovery was **Systemic**. Capital is sloshing violently in and out of the sector based entirely on macro liquidity flows.
+* **Conclusion:** The recent 5-day recovery is not a return to stability; it is a symptom of **Fragility**. The market has entered a regime of "Volatility Clustering," where asset prices are no longer anchoring to fundamentals but are reacting with extreme sensitivity (High Beta) to daily shifts in the bond market.
 
 ---
 
